@@ -25,7 +25,7 @@ please let hriz shows the rizz through </> doin'
 
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=hriz)
+![](https://komarev.com/ghpvc/?username=hhriz)
 
 
 <p align="right">
