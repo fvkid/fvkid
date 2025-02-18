@@ -18,15 +18,9 @@ github.com/hhriz
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=hriz)
 
-<div align="right">
-  <a href="#">best regards,</a>
-</div>
-
-<div align="right">
-  <a href="#"><b>hriz</b></a>
-</div>
-
-<div align="right">
+<p align="right">
+  best regards,<br>
+  <b>hriz grace</b><br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70"/>
 </div>
 
