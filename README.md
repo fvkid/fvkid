@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Whitestar_black.svg" width="260"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="260"/>
 </div>
 
 
