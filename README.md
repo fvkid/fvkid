@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/hhriz/hhriz-s-profile/blob/73c7ba1b6af17a5c4073d35cb397ba9e55dd2f04/paw-1.png" width="135"/>
+<img align="left" src="https://github.com/hhriz/profile/blob/b03def8067a46f967317612f51c35cb2cb9c043f/paw-1.png" width="135"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=3000&pause=3000&color=FFFFFF&background=FFFFFF00&width=435&lines=hriz+grace+%7C+AKA+%7Bhriz%7D;please+let+hriz+shows+the+rizz.;thanx+to+you+w+rizz.)](https://git.io/typing-svg)
 
