@@ -20,7 +20,6 @@ Me, you, & Cats.
 github.com/hhriz
 
 please let hriz shows the rizz through </> doin'
-? | https://dontasktoask.com/
 ```
 
 
