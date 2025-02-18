@@ -10,7 +10,7 @@
 </div>
 
 
-<img align="left" src="https://github.com/hhriz/hhriz/blob/a6d89428252262ab9bdae1d487e3459e5c040c92/paw-1.png" width="130"/>
+<img align="left" src="https://github.com/hhriz/hhriz/blob/de58c1f1373dab8b478cf878e209caf74fa9b583/cat-paw.png" width="130"/>
 
 
 ```csharp
@@ -34,7 +34,7 @@ please let hriz shows the rizz through </> doin'
 </div>
 
 <p align="center">
-  <img src="https://github.com/hhriz/hhriz/blob/27e76fa47d4ff8a2c6529a50be993d0a32b3ef2e/noentry-sign.svg.png" width="13"/>
+  <img src="https://github.com/hhriz/hhriz/blob/de58c1f1373dab8b478cf878e209caf74fa9b583/no-entry.png" width="13"/>
   <font color="blue"><i>light theme/summat, some mightn't be visible on ya.</i></font>
 </p>
 
