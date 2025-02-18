@@ -32,7 +32,7 @@ github.com/hhriz
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70"/>
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/hhriz/hhriz/blob/27e76fa47d4ff8a2c6529a50be993d0a32b3ef2e/noentry-sign.svg.png" width="13"/>
-  <font color="blue"><i>at light theme/similar, some mightn't be visible!</i></font>
+  <font color="blue"><i>at light theme/similar, some mightn't be visible on ya.</i></font>
 </p>
