@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/hhriz/profile/blob/b03def8067a46f967317612f51c35cb2cb9c043f/paw-1.png" width="260"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Whitestar_black.svg" width="260"/>
 </div>
 
 
@@ -9,7 +9,9 @@
   </a>
 </div>
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Whitestar_black.svg" width="130"/>
+
+<img align="left" src="https://github.com/hhriz/hhriz/blob/a6d89428252262ab9bdae1d487e3459e5c040c92/paw-1.png" width="130"/>
+
 
 ```csharp
 please let hriz shows the rizz through </> doin'
@@ -18,9 +20,11 @@ please let hriz shows the rizz through </> doin'
 github.com/hhriz
 ```
 
+
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=hriz)
+
 
 <p align="right">
   best regards,<br>
