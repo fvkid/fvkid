@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="260"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="195"/>
 </div>
 
 
@@ -14,10 +14,11 @@
 
 
 ```csharp
+Me, you, & Cats.
+github.com/hhriz
+
 please let hriz shows the rizz through </> doin'
 ? | https://dontasktoask.com/
-
-github.com/hhriz
 ```
 
 
@@ -34,5 +35,6 @@ github.com/hhriz
 
 <p align="center">
   <img src="https://github.com/hhriz/hhriz/blob/27e76fa47d4ff8a2c6529a50be993d0a32b3ef2e/noentry-sign.svg.png" width="13"/>
-  <font color="blue"><i>at light theme/similar, some mightn't be visible on ya.</i></font>
+  <font color="blue"><i>light theme/summat, some mightn't be visible on ya.</i></font>
 </p>
+
