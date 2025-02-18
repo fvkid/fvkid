@@ -7,7 +7,7 @@
     <br>
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=39&duration=3000&pause=3000&color=FFFFFF&background=FFFFFF00&width=435&lines=hriz+grace+%7C+AKA+hriz;thanx+w+rizz."/>
       </br>  
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=3000&pause=3000&color=FFB6C1&width=435&lines=hriz and sheyn greetings to you!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=3000&pause=3000&color=FFB6C1&width=435&lines=hriz and sheyn grace"/>
 </div>
 
 <img align="left" src="https://github.com/hhriz/hhriz/blob/de58c1f1373dab8b478cf878e209caf74fa9b583/cat-paw.png" width="130"/>
