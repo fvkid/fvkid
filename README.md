@@ -5,8 +5,10 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=3000&pause=3000&color=FFFFFF&background=FFFFFF00&width=435&lines=hriz+grace+%7C+AKA+[+hriz+];please+let+hriz+shows+the+rizz.;thanx+to+you+[+w+rizz+]." alt="Typing SVG">
-  </a>
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=39&duration=3000&pause=3000&color=FFFFFF&background=FFFFFF00&width=435&lines=hriz+grace+%7C+AKA+hriz;thanx+w+rizz."/>
+      </br>  
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=3000&pause=3000&color=FFB6C1&width=435&lines=hriz and sheyn greetings to you!"/>
 </div>
 
 
