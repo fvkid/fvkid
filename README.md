@@ -16,8 +16,7 @@
 
 
 ```csharp
-Me & Cats
-The Oxford Bridge / i3ROTHERS
+me & cats
 please let hriz shows the rizz through </> doin'
 
 github.com/hhriz
