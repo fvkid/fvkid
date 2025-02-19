@@ -18,8 +18,8 @@
 
 
 ```csharp
-Me, you, & Cats.
-The Oxford Bridge/i3ROTHERS
+Me & Cats
+The Oxford Bridge / i3ROTHERS
 please let hriz shows the rizz through </> doin'
 
 github.com/hhriz
@@ -31,9 +31,9 @@ github.com/hhriz
 ![](https://komarev.com/ghpvc/?username=hhriz)
 
 
-<p align="left">
+<p align="right">
   <br>best regards,</br>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=16&duration=3000&pause=3000&color=FFB6C1&width=435&lines=hriz and sheyn grace+[+lovers+]"/></br>
+  <b>hriz grace</b></br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70"/>
   </p>
 
