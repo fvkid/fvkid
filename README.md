@@ -1,18 +1,8 @@
-
-
 <div align="center">
   <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
   <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75"/>
   <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="150"/>
   <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75"/>
-  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-</div>
-
-<div align="left">
-  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-</div>
-
-<div align="right">
   <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
 </div>
 
@@ -51,6 +41,6 @@ github.com/hhriz
 
 <p align="center">
   <img src="https://github.com/hhriz/hhriz/blob/de58c1f1373dab8b478cf878e209caf74fa9b583/no-entry.png" width="13"/>
-  <font color="blue"><i>light theme/summat, some mightn't be visible on ya.</i></font>
+  <font color="blue"><i>light theme/summat, some might NOT be visible on ya.</i></font>
 </p>
 
