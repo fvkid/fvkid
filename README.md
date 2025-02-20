@@ -7,6 +7,12 @@
 </div>
 
 
+<br>
+<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+<img align="right" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+</br>
+
+
 <div align="left">
   <a href="https://git.io/typing-svg">
     <br>
@@ -36,7 +42,7 @@ github.com/hhriz
   <br>best regards,</br>
   <b>hriz grace</b></br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70"/>
-  </p>
+</p>
 
 
 <p align="center">
