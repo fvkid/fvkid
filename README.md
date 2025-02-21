@@ -1,4 +1,14 @@
+<div align="center">
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="150"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+</div>
+
+---
 #
+
 <div align="left">
   <a href="https://git.io/typing-svg">
   <br>
