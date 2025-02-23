@@ -53,6 +53,8 @@ github.com/hhriz
   <img src="https://skillicons.dev/icons?i=html" alt="html" width="39"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="39"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="39"/>
+  <img width="26">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="39"/>
 </div>
 
 
