@@ -45,6 +45,7 @@ github.com/hhriz
 
 
 <div align="right">
+  <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="39"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="39"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="39"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="39"/>
