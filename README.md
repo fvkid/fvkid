@@ -20,6 +20,8 @@ github.com/hhriz
     <img src="https://komarev.com/ghpvc/?username=hhriz" alt="profile view count">
 </div>
 
+<br>
+
 #
 
 <div align="right">
@@ -37,6 +39,8 @@ github.com/hhriz
 </div>
 
 #
+
+</br>
 
 ___
 
