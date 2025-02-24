@@ -1,16 +1,9 @@
 ___
 
-<div align="left">
-  <a href="https://git.io/typing-svg">
-  <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=3000&pause=3000&color=FFFFFF&background=FFFFFF00&width=232&height=55&lines=hriz+grace+%7C+AKA+hriz;thanx+w+rizz."/>
-  </br>
+<div align="center"><a>
+    <img src="https://github.com/hhriz/hhriz/blob/de58c1f1373dab8b478cf878e209caf74fa9b583/cat-paw.png" width="169"/>
   </a>
 </div>
-
-<img align="left" src="https://github.com/hhriz/hhriz/blob/de58c1f1373dab8b478cf878e209caf74fa9b583/cat-paw.png" width="130"/>
-
-___
 
 <br>
 
@@ -25,11 +18,11 @@ github.com/hhriz
 
 </br>
 
-&zwnj; 
-&zwnj; 
-![](https://komarev.com/ghpvc/?username=hhriz)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=hhriz" alt="Profile View Count">
+</div>
 
-___
+#
 
 <div align="right">
   <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="39"/>
@@ -45,14 +38,7 @@ ___
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="39"/>
 </div>
 
-###
-
-<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-
+#
 ___
 
 <p align="right">
