@@ -1,18 +1,6 @@
 ###
 
-<img align="right" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-<img align="right" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-<img align="right" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-
-___
-
-<br>
-
-___
-
-
-###
-
+#
 
 <div align="left">
   <a href="https://git.io/typing-svg">
@@ -51,15 +39,15 @@ github.com/hhriz
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="39"/>
 </div>
 
+#
+
 ###
 
 <img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
 <img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
 <img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
-
-___
-
-</br>
+<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
 
 ___
 
