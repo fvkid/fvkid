@@ -1,6 +1,4 @@
-###
-
-#
+___
 
 <div align="left">
   <a href="https://git.io/typing-svg">
@@ -12,6 +10,10 @@
 
 <img align="left" src="https://github.com/hhriz/hhriz/blob/de58c1f1373dab8b478cf878e209caf74fa9b583/cat-paw.png" width="130"/>
 
+___
+
+<br>
+
 ```csharp
 
 yo there,
@@ -21,9 +23,13 @@ github.com/hhriz
 
 ```
 
+</br>
+
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=hhriz)
+
+___
 
 <div align="right">
   <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="39"/>
@@ -38,8 +44,6 @@ github.com/hhriz
   <img width="26">
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="39"/>
 </div>
-
-#
 
 ###
 
