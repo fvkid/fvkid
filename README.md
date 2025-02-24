@@ -5,7 +5,7 @@ ___
   </a>
 </div>
 
-<br>
+<br></br>
 
 ```csharp
 
@@ -16,10 +16,8 @@ github.com/hhriz
 
 ```
 
-</br>
-
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=hhriz" alt="Profile View Count">
+    <img src="https://komarev.com/ghpvc/?username=hhriz" alt="profile view count">
 </div>
 
 #
