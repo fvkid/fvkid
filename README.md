@@ -7,8 +7,6 @@ ___
 
 <br>
 
-___
-
 ```csharp
 
 yo there,
