@@ -7,6 +7,20 @@ ___
 
 <br>
 
+###
+<img align="right" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+<img align="right" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+<img align="right" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+
+###
+<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+<img align="left" src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+
+
+
+___
+
 ```csharp
 
 yo there,
