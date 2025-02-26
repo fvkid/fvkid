@@ -27,17 +27,19 @@ github.com/hhriz
 #
 
 <div align="right">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="39"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="39"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="39"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="39"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css" width="39"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html" width="39"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="39"/>
-  <img src="https://skillicons.dev/icons?i=go" alt="go" width="39"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="39"/>
-  <img width="26">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="39"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" width="39"/>
+    <img width="6.5">
+    <img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse" width="39"/>
+    <img width="6.5">
+    <img src="https://skillicons.dev/icons?i=atom" alt="atom" width="39"/>
+    <img width="6.5">
+    <img src="https://skillicons.dev/icons?i=sublime" alt="sublime" width="39"/>
+    <img width="6.5">
+    <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="39"/>
+    <img width="6.5">
+    <img src="https://skillicons.dev/icons?i=emacs" alt="emacs" width="39"/>
+    <img width="6.5">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="39"/>
 </div>
 
 #
