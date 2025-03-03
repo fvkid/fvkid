@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="42.25"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="84.5"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="169"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="84.5"/>
+  <img src="https://github.com/hhriz/hhriz/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="42.25"/>
+</div>
+
 ___
 
 <br>
@@ -11,7 +19,10 @@ ___
 
 ```csharp
 
+jshi and for fun
+
 yo there,
+cat/dogstab
 please let hriz shows the rizz through </> doin'
 
 github.com/hhriz
@@ -21,28 +32,6 @@ github.com/hhriz
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=hhriz" alt="profile view count">
 </div>
-
-<br>
-
-#
-
-<div align="right">
-    <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" width="39"/>
-    <img width="6.5">
-    <img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse" width="39"/>
-    <img width="6.5">
-    <img src="https://skillicons.dev/icons?i=atom" alt="atom" width="39"/>
-    <img width="6.5">
-    <img src="https://skillicons.dev/icons?i=sublime" alt="sublime" width="39"/>
-    <img width="6.5">
-    <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="39"/>
-    <img width="6.5">
-    <img src="https://skillicons.dev/icons?i=emacs" alt="emacs" width="39"/>
-    <img width="6.5">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="39"/>
-</div>
-
-#
 
 </br>
 
