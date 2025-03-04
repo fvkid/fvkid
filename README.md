@@ -22,7 +22,6 @@ ___
 ```csharp
 
 jshi and for fun
-cat/dogstabbed
 
 yo there,
 please let hriz shows the rizz through </> doin'
