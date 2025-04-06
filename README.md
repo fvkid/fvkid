@@ -21,10 +21,8 @@ ___
 
 ```csharp
 
-jshi and for fun
-
 yo there,
-please let hriz shows the rizz through </> doin'
+&3KIDS w grace rizz always.
 
 github.com/hhriz
 
