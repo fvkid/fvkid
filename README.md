@@ -22,7 +22,7 @@ ___
 ```csharp
 
 yo there,
-&3KIDS w grace rizz always.
+F/K/&3KIDS w grace rizz always.
 
 github.com/hhriz
 
