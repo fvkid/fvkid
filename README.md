@@ -23,7 +23,9 @@ ___
 
 yo there,
 F/K/&3KIDS w grace rizz always.
-let ./> | for chillin' and goofin' aroff
+
+./> stuff doin' | < NOT just it |
+AND | for chillin' OR goofin' aroff
 
 github.com/hhriz
 
