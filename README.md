@@ -22,7 +22,7 @@ ___
 ```csharp
 
 yo there,
-F/K/&3KIDS w grace rizz always.
+./&3KIDS hop into the fk rizz
 
 ./> stuff doin' | < NOT just it |
 AND | for chillin' OR goofin' aroff
