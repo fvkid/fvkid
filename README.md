@@ -22,7 +22,7 @@ ___
 ```csharp
 
 yo there,
-./&3KIDS hop into a game
+./&3KIDS hop in
 
 ./> stuff doin' | < NOT just it |
 AND | for chillin' OR goofin' aroff
