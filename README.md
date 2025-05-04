@@ -21,11 +21,9 @@ ___
 
 ```csharp
 
-yo there,
+hi,
 ./&3KIDS hop in
 
-./> stuff doin' | < NOT just it |
-AND | for chillin' OR goofin' aroff
 
 github.com/hhriz
 
