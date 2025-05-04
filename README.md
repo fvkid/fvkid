@@ -21,9 +21,8 @@ ___
 
 ```csharp
 
-hi,
-./&3KIDS hop in
-
+say hi,
+? NOT | > hop_in/.to */X
 
 github.com/hhriz
 
