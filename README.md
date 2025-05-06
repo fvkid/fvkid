@@ -41,7 +41,7 @@ ___
 
 <p align="right">
   best regards,
-  <br><b>hriz</b></br>
+  <br><b>hhriz</b></br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70"/>
 </p>
 
