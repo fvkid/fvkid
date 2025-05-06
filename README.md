@@ -21,7 +21,7 @@ ___
 
 ```csharp
 
-say hi, < just let /
+lets say hi ya, < just /
 ? NOT | > hop_in/.to */X
 
 
