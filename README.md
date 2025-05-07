@@ -21,9 +21,8 @@ ___
 
 ```csharp
 
-lets say hi ya, < just /
-? NOT | > hop_in/.to */X
-
+hi,
+//woof/!//
 
 github.com/hhriz
 
