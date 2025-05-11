@@ -13,7 +13,7 @@ ___
 <br>
 
 <div align="center"><a>
-    <img src="https://github.com/hhriz/hhriz/blob/c34312ce18f00a7107d67783f6ecee429cfa2a62/paw.png" width="150"/>
+    <img src="https://github.com/hhriz/hhriz/blob/65ea788377d2b43f036371d951a3316e002a67df/paw.png" width="150"/>
   </a>
 </div>
 
