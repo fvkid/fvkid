@@ -21,8 +21,8 @@ ___
 
 ```csharp
 
-say hi,
-//woof/!//
+hi,
+.//woof/!//
 
 
 github.com/hhriz
