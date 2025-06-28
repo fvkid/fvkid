@@ -37,7 +37,7 @@ ___
 
 <p align="right">
   best regards,
-  <br><b>hhriz</b></br>
+  <br><b>Ny/c – Xi</b></br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70"/>
 </p>
 
