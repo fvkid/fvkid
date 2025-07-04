@@ -25,7 +25,7 @@ hi,
 .//woof/!//
 
 
-github.com/Ny-Xi
+github.com/Nyc-Xi
 
 ```
 
