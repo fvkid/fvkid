@@ -22,11 +22,11 @@ ___
 ```brainfuck
 hi,
 .//woof/!//
-#letme./&3 #fvkidsplayfireW #PUPETTEPWNED
+#letme./&3 #fireW #PUPETTEPWNED
 ```
 
-```SQL
-github.com/Nyc-Xi
+```asm
+github/lab.com/Nyc-Xi
 ```
 
 </br>
