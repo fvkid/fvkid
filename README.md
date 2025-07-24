@@ -26,9 +26,7 @@ hi,
 ```
 
 ```SQL
-
 github.com/Nyc-Xi
-
 ```
 
 </br>
