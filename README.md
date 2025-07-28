@@ -26,7 +26,8 @@ hi,
 ```
 
 ```asm
-github/lab.com/Nyc-Xi
+github.com/Nyc-Xi
+gitlab.com/Nyc-Xi
 ```
 
 </br>
