@@ -21,7 +21,7 @@ ___
 
 ```brainfuck
 hi,
-.//woof/!//
+./!/woof/!//
 #letme./&3 #fireW #PUPETTEPWNED
 ```
 
