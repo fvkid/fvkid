@@ -19,11 +19,15 @@ ___
 
 </br>
 
+<b>
+  
 ```brainfuck
 hi,
 ./!/woof/!//
 #letme./&3 #fireW #PUPETTEPWNED
 ```
+
+</b>
 
 ```asm
 github.com/Nyc-Xi
@@ -44,5 +48,5 @@ ___
 
 <p align="center">
   <img src="https://github.com/Nyc-Xi/Nyc-Xi/blob/de58c1f1373dab8b478cf878e209caf74fa9b583/no-entry.png" width="13"/>
-  <font color="white"><i>light theme/summat, some might NOT be visible on ya.</i></font>
+  <font color="white"><i><b>Light theme/summat</b>, some <b>might NOT</b> be <b>visible</b> on ya.</i></font>
 </p>
