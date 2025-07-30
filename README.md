@@ -19,20 +19,20 @@ ___
 
 </br>
 
-<b>
-  
 ```brainfuck
 hi,
 ./!/woof/!//
 #letme./&3 #fireW #PUPETTEPWNED
 ```
 
-</b>
-
+<b>
+  
 ```asm
 github.com/Nyc-Xi
 gitlab.com/Nyc-Xi
 ```
+
+</b>
 
 </br>
 
