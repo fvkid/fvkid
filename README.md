@@ -13,8 +13,8 @@ ___
 <br>
 
 <div align="center"><a>
-    <img src="https://github.com/Nyc-Xli/Nyc-Xli/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="150"/>
-  </a>
+  <img src="https://github.com/Nyc-Xli/Nyc-Xli/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="150"/>
+</a>
 </div>
 
 </br>
