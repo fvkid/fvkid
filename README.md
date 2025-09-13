@@ -20,7 +20,7 @@ ___
 ```brainfuck
 hi,
 ./?!/woof/!//
-#letme./&3 #fireW #PUPETTEPWNED
+#weTeens #weFireW #PUPETTEPWNED
 ```
 
 <b>
