@@ -18,8 +18,7 @@ ___
 </br>
 
 ```brainfuck
-hi,
-./?!/woof/!//
+hi, !woof\>./
 #weTeens #weFireW #PUPETTEPWNED
 ```
 
