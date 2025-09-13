@@ -15,8 +15,6 @@ ___
 </a>
 </div>
 
-</br>
-
 ```brainfuck
 hi, !woof\>./
 #weTeens #weFireW #PUPETTEPWNED
