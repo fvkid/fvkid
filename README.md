@@ -10,8 +10,6 @@ ___
 
 #
 
-<br>
-
 <div align="center"><a>
   <img src="https://github.com/13ENcified/13ENcified/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="150"/>
 </a>
@@ -33,8 +31,6 @@ gitlab.com/13ENcified
 ```
 
 </b>
-
-</br>
 
 #
 
