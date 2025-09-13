@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="25"/>
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="50"/>
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="100"/>
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="50"/>
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="25"/>
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75"/>
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="150"/>
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75"/>
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5"/>
 </div>
 
 ___
@@ -11,7 +11,7 @@ ___
 #
 
 <div align="center"><a>
-  <img src="https://github.com/13ENcified/13ENcified/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="100"/>
+  <img src="https://github.com/13ENcified/13ENcified/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="150"/>
 </a>
 </div>
 
