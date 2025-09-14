@@ -22,7 +22,7 @@ ___
 
 <div align="right">
   <a>
-    <img src="https://github.com/13ENcified/13ENcified/blob/9e43fe4afef083519fd39de0b581e85e9e81388a/w-cat-transparent-bg.png" width="150" />
+    <img src="https://github.com/13ENcified/13ENcified/blob/ddfcda2e8b704b2a59eaeba6cec58ebf883fda17/white-car.png" width="150" />
   </a>
   <div>
     <font color="white"><b><i>ssttt, theres a cat doin' sleepin' here</i></b></br></font>
