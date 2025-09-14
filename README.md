@@ -21,13 +21,11 @@ ___
 </div>
 
 <div align="right">
-  <a>
-    <img src="https://github.com/13ENcified/13ENcified/blob/ddfcda2e8b704b2a59eaeba6cec58ebf883fda17/white-car.png" width="150" />
-  </a>
-  <div>
-    <font color="white"><b><i>ssttt, theres a cat doin' sleepin' here</i></b></br></font>
-    <font color="white">cat was said before: <b>what do you expect here</b>, <i>meeeow~</i>?<b><i><br></br>cat go back sleep with an unc answer then</i></b></font>
-  </div>
+  <a><img src="https://github.com/13ENcified/13ENcified/blob/ddfcda2e8b704b2a59eaeba6cec58ebf883fda17/white-car.png" width="150" /></a>
+<div>
+  <font color="white"><b><i>ssttt, theres a cat doin' sleepin' here</i></b></br></font>
+  <font color="white">cat was said before: <b>what do you expect here</b>, <i>meeeow~</i>?<b><i><br></br>cat go back sleep with an unc answer then</i></b></font>
+</div>
 </div>
 
 <br>
