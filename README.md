@@ -17,7 +17,7 @@ ___
 
 <div align="right">
   <font color="white"><b>./hop_onto</b></br></font>
-  <font color="white"><i>loading yours. we gonna hop, please hold on... </i><i><b><br></br>ya hopped here...</b></i></font>
+  <font color="white"><i>loading yours. gonna hop, please hold on... </i><i><b><br></br>ya hopped here...</b></i></font>
 </div>
 
 <div align="right">
