@@ -15,6 +15,18 @@ ___
 </a>
 </div>
 
+<div align="right">
+  <a>
+    <img src="https://github.com/13ENcified/13ENcified/blob/9e43fe4afef083519fd39de0b581e85e9e81388a/w-cat-transparent-bg.png" width="150"/>
+  </a>
+  <div>
+    <font color="white"><b>ssttt, there's a cat doin' sleepin' here</b></font><br/>
+    <font color="white">cat was said before sleeping: what do you expect here?</font>
+  </div>
+</div>
+
+<br>
+
 ```brainfuck
 hi, !woof\>./
 #weTeens #weFireW #PUPETTEPWNED
