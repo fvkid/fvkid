@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75" />
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="150" />
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75" />
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="50" />
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="100" />
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="200" />
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="100" />
+  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="50" />
 </div>
 
 ___
