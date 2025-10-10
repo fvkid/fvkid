@@ -17,10 +17,6 @@ ___
 
 <br>
 
-```brainfuck
-hi, !woof\>.//
-```
-
 <b>
   
 ```asm
