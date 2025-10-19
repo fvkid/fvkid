@@ -32,7 +32,7 @@ ___
 
 <div align="right">
   best regards,<br/>
-  <b>13ENcified</b><br/>
+  <b>NiXIII</b><br/>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70" />
 </div>
 
