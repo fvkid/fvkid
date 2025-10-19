@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75" />
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="150" />
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75" />
-  <img src="https://github.com/13ENcified/13ENcified/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
+  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
+  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75" />
+  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="150" />
+  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75" />
+  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
 </div>
 
 ___
@@ -11,7 +11,7 @@ ___
 #
 
 <div align="center"><a>
-  <img src="https://github.com/13ENcified/13ENcified/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="200" />
+  <img src="https://github.com/fvkid/fvkid/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="200" />
 </a>
 </div>
 
@@ -20,8 +20,8 @@ ___
 <b>
   
 ```asm
-github.com/13ENcified
-gitlab.com/13ENcified
+github.com/fvkid
+gitlab.com/fvkid
 ```
 
 </b>
@@ -37,6 +37,6 @@ ___
 </div>
 
 <div align="center">
-  <img src="https://github.com/13ENcified/13ENcified/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
+  <img src="https://github.com/fvkid/fvkid/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
   <font color="white"><i><b>Light theme/summat</b>, some <b>might NOT</b> be <b>visible</b> on ya.</i></font>
 </div>
