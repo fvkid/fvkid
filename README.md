@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
-  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75" />
-  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="150" />
-  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="75" />
-  <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
+  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="37.5" />
+  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="75" />
+  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="150" />
+  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="75" />
+  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="37.5" />
 </div>
 
 #
