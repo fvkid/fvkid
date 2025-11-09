@@ -17,7 +17,7 @@
 </div>
 
 <div align="center"><a>
-  <img src="https://github.com/fvkid/fvkid/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="200" />
+  <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="200" />
 </a>
 </div>
 
