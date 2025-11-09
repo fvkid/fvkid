@@ -6,29 +6,46 @@
   <img src="https://github.com/fvkid/fvkid/blob/cae11d26b48060bb2a2dce197cb9e54960f9a125/white-star-icon.png" width="37.5" />
 </div>
 
-___
+---
 
 #
+
+<br>
 
 <div align="center"><a>
   <img src="https://github.com/fvkid/fvkid/blob/c871bbe4fe68283d009a4b2579c906fd5541499a/paw.png" width="200" />
 </a>
 </div>
 
-<br>
+<table align="center" border="1">
+  <tr>
+    <th rowspan="2" style="vertical-align: middle; text-align: center;">Details</th>
+    <th colspan="2">What I like</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <ul>
+        <li>Reading stuff</li>
+        <li>Watching stuff</li>
+        <li>Playing Games</li>
+        <li>Learning</li>
+        <li>The Cats 🐈</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<b>
-  
 ```asm
 github.com/fvkid
 gitlab.com/fvkid
 ```
 
-</b>
+<br>
 
 #
 
-___
+---
 
 <div align="right">
   best regards,<br/>
