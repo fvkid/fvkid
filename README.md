@@ -40,13 +40,15 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/a-car.png" width="66" />
       <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/favou-car.png" width="100" />
-      <img src="https://github.com/fvkid/fvkid/blob/8893308997f2e008a4ee20d06ac4f601f98b2ad6/vvhite-car.png" width="90" />
       <br>
       <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/w-car.png" width="93" />
       <img src="https://github.com/fvkid/fvkid/blob/b42cf3269aad9ae840d096380486043795f28a32/grey-cat.png" width="100" />
       <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/b-car.png" width="95" />
+      <br>
+      <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-1.png" width="99" />
+      <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-2.png" width="100" />
+      <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-3.png" width="93" />
     </td>
     <td align="center">
       <a href="https://github.com/fvkid"><img src="https://skillicons.dev/icons?i=github" /></a>
