@@ -99,12 +99,14 @@
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=py" />
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=regex" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=ts" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=regex" />
+  <img src="https://skillicons.dev/icons?i=deno" />
+  <img src="https://skillicons.dev/icons?i=bun" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
   <br>
   <img src="https://skillicons.dev/icons?i=lua" />
   <img src="https://skillicons.dev/icons?i=robloxstudio" />
