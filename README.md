@@ -11,7 +11,7 @@
 #
 
 <div align="center"><a>
-  <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="200" />
+  <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="150" />
 </a>
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  # Fvn Ley & Kids
+  ### `Fvn & Ley – Kids`
 
 </div>
 
@@ -47,10 +47,8 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/favou-car.png" width="100" />
-      <br>
-      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/w-car.png" width="93" />
-      <img src="https://github.com/fvkid/fvkid/blob/b42cf3269aad9ae840d096380486043795f28a32/grey-cat.png" width="100" />
+      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/w-car.png" width="91" />
+      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/favou-car.png" width="95" />
       <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/b-car.png" width="95" />
       <br>
       <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-1.png" width="99" />
