@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="37.5" />
-  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="75" />
-  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="150" />
-  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="75" />
-  <img src="https://github.com/fvkid/fvkid/blob/44c47ae6263a61dc8167408671a6b73a068a30ac/white-star.png" width="37.5" />
+  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="37.5" />
+  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="75" />
+  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="150" />
+  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="75" />
+  <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/vvhite-star.png" width="37.5" />
 </div>
 
-#
-
 ---
+
+#
 
 <div align="center">
   
@@ -24,7 +24,7 @@
 <table align="center" border="1">
   <tr>
     <th rowspan="2" style="vertical-align: middle; text-align: center;">Details</th>
-    <th colspan="2">What I like</th>
+    <th colspan="3">What I like</th>
   </tr>
   <tr>
     <td></td>
@@ -37,12 +37,36 @@
         <li>The Cats 🐈</li>
       </ul>
     </td>
+    <td>
+      <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/a-car.png" width="200" />
+    </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" /><br>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" /><br>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
+</p>
+
+---
+
+<div align="center">
+  
+  # Me at:
+
+</div>
+
+<p align="center">
+  <a href="https://discord.com/users/634719440184803339"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" /></a>
+   <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg" /></a>
+  <a href="https://github.com/fvkid"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" /></a>
+</p>
+
 ```asm
-github.com/fvkid
-gitlab.com/fvkid
 ```
 
 #
