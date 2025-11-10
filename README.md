@@ -10,8 +10,6 @@
 
 ##
 
-<br>
-
 <div align="center">
   <a>
     
@@ -20,8 +18,6 @@
   <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="200" />
   </a>
 </div>
-
-</br>
 
 ---
 
