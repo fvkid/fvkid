@@ -27,7 +27,7 @@
 
 <table align="center">
   <tr>
-    <th rowspan="4">Details</th>
+    <th rowspan="3">Details</th>
     <th rowspan="3"></th>
     <th colspan="2">What I like</th>
     <th rowspan="3"></th>
