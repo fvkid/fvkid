@@ -23,13 +23,14 @@
 
 <table align="center">
   <tr>
-    <th rowspan="2" style="vertical-align: middle; text-align: center;">Details</th>
+    <th rowspan="2">Details</th>
     <th rowspan="2"></th>
     <th colspan="2">What I like</th>
+    <th colspan="2">Find me on</th>
     <th rowspan="2"></th>
   </tr>
   <tr>
-     <td>
+    <td>
       <ul>
         <li>Reading stuff</li>
         <li>Watching stuff</li>
@@ -41,6 +42,13 @@
     <td>
       <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/a-car.png" width="100" />
     </td>
+    <td align="center">
+      <a href="https://github.com/fvkid"><img src="https://skillicons.dev/icons?i=github" /></a>
+      <a href="https://gitlab.com/fvkid"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+      <br>
+      <a href="https://discord.com/users/634719440184803339"><img src="https://skillicons.dev/icons?i=discord" /></a>
+      <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48" /></a>
+    </td>
   </tr>
 </table>
 
@@ -49,9 +57,10 @@
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" /><br>
+  <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" /><br>
@@ -72,21 +81,6 @@
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=regex" />
-</p>
-
----
-
-<div align="center">
-  
-  # Find me
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/fvkid"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://discord.com/users/634719440184803339"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://gitlab.com/fvkid"><img src="https://skillicons.dev/icons?i=gitlab" /></a><br>
-  <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg" /></a>
 </p>
 
 #
