@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  ### `Fvn & Ley – Kids`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&duration=4000&pause=2000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Fvn+%26+Ley+-+Kids)](https://git.io/typing-svg)
 
 </div>
 
