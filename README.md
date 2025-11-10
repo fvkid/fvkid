@@ -10,9 +10,10 @@
 
 #
 
-<div align="center"><a>
-  <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="150" />
-</a>
+<div align="center">
+  <a>
+    <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="150" />
+  </a>
 </div>
 
 #
@@ -56,11 +57,19 @@
       <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-3.png" width="93" />
     </td>
     <td align="center">
-      <a href="https://github.com/fvkid"><img src="https://skillicons.dev/icons?i=github" /></a>
-      <a href="https://gitlab.com/fvkid"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+      <a href="https://github.com/fvkid">
+        <img src="https://skillicons.dev/icons?i=github" />
+      </a>
+      <a href="https://gitlab.com/fvkid">
+        <img src="https://skillicons.dev/icons?i=gitlab" />
+      </a>
       <br>
-      <a href="https://discord.com/users/634719440184803339"><img src="https://skillicons.dev/icons?i=discord" /></a>
-      <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48" /></a>
+      <a href="https://discord.com/users/634719440184803339">
+        <img src="https://skillicons.dev/icons?i=discord" />
+      </a>
+      <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48" />
+      </a>
     </td>
   </tr>
 </table>
@@ -89,11 +98,16 @@
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=lua" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=regex" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=lua" />
+  <img src="https://skillicons.dev/icons?i=robloxstudio" />
 </p>
 
 #
@@ -110,5 +124,5 @@
 
 <div align="center">
   <img src="https://github.com/fvkid/fvkid/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
-  <font color="white"><i><b>Light theme/summat</b>, some <b>might NOT</b> be <b>visible</b> on ya.</i></font>
+  <font><i><b>Light theme/summat, some <b>might NOT be visible on ya.</b></i></font>
 </div>
