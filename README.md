@@ -32,10 +32,13 @@
   <tr>
     <td>
       <ul>
-        <li>Reading stuff</li>
-        <li>Watching stuff</li>
+        <li>Reading</li>
+        <li>Watching</li>
+        <li>Listening</li>
         <li>Playing Games</li>
         <li>Learning</li>
+        <li>Find something new</li>
+        <li>Make related stuff</li>
         <li>The Cats 🐈</li>
       </ul>
     </td>
