@@ -56,7 +56,7 @@
 
 <div align="center">
   
-  # Me at:
+  # Find me on
 
 </div>
 
