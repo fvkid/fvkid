@@ -39,9 +39,13 @@
         <li>The Cats 🐈</li>
       </ul>
     </td>
-    <td>
-      <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/a-car.png" width="100" />
-      <img src="https://github.com/fvkid/fvkid/blob/8893308997f2e008a4ee20d06ac4f601f98b2ad6/vvhite-car.png" width="100" />
+    <td align="center">
+      <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/a-car.png" width="66" />
+      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/favou-car.png" width="100" />
+      <img src="https://github.com/fvkid/fvkid/blob/8893308997f2e008a4ee20d06ac4f601f98b2ad6/vvhite-car.png" width="90" />
+      <br>
+      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/w-car.png" width="96" />
+      <img src="https://github.com/fvkid/fvkid/blob/0a3d818d934583c868e1bc4e1fed52cbf3365a10/b-car.png" width="100" />
     </td>
     <td align="center">
       <a href="https://github.com/fvkid"><img src="https://skillicons.dev/icons?i=github" /></a>
