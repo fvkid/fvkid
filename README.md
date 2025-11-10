@@ -93,9 +93,12 @@
   <br>
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=regex" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
   <img src="https://skillicons.dev/icons?i=deno" />
   <img src="https://skillicons.dev/icons?i=bun" />
+  <img src="https://skillicons.dev/icons?i=npm" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=discordjs" />
   <br>
   <img src="https://skillicons.dev/icons?i=lua" />
   <img src="https://skillicons.dev/icons?i=robloxstudio" />
