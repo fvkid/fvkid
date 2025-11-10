@@ -8,8 +8,6 @@
 
 ---
 
-#
-
 <div align="center">
   
   # Fvn Ley & Kids
@@ -38,21 +36,43 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/a-car.png" width="200" />
+      <img src="https://github.com/fvkid/fvkid/blob/af9b4c2871854c29d950e01f62afc3b44c7458cc/a-car.png" width="100" />
     </td>
   </tr>
 </table>
 
+---
+
 <p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" /><br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" /><br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype2.svg" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
+  
+</p>
+
+---
+
+<br>
 
 <div align="center">
   
@@ -61,9 +81,10 @@
 </div>
 
 <p align="center">
-  <a href="https://discord.com/users/634719440184803339"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" /></a>
-   <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg" /></a>
-  <a href="https://github.com/fvkid"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" /></a>
+  <a href="https://github.com/fvkid"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://discord.com/users/634719440184803339"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://gitlab.com/fvkid"><img src="https://skillicons.dev/icons?i=gitlab" /></a><br>
+  <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg" /></a>
 </p>
 
 ```asm
