@@ -25,11 +25,15 @@
 
 <table align="center">
   <tr>
-    <th rowspan="2">Details</th>
-    <th rowspan="2"></th>
+    <th rowspan="3">Details</th>
+    <th rowspan="3"></th>
     <th colspan="2">What I like</th>
-    <th colspan="2">Find me on</th>
-    <th rowspan="2"></th>
+    <th rowspan="3"></th>
+    <th rowspan="2">Find me on</th>
+  </tr>
+  <tr>
+    <th>Interest</th>
+    <th>The Cats</th>
   </tr>
   <tr>
     <td>
