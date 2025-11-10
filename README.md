@@ -21,8 +21,6 @@
 
 ---
 
-<br>
-
 <table align="center">
   <tr>
     <th rowspan="4">Details</th>
