@@ -10,15 +10,19 @@
 
 #
 
+<div align="center"><a>
+  <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="200" />
+</a>
+</div>
+
+#
+
+<br>
+
 <div align="center">
   
   # Fvn Ley & Kids
 
-</div>
-
-<div align="center"><a>
-  <img src="https://github.com/fvkid/fvkid/blob/30b48e04c978fc299de733b5f95938c0f91c2eb4/pavv.png" width="200" />
-</a>
 </div>
 
 <table align="center">
@@ -99,8 +103,10 @@
 ---
 
 <div align="right">
-  best regards,<br/>
-  <b>NiXIII</b><br/>
+  Best regards,
+  <br>
+  <b>NiXIII</b>
+  <br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70" />
 </div>
 
