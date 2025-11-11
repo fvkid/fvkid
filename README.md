@@ -107,9 +107,9 @@
   <img src="https://skillicons.dev/icons?i=sqlite" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Discord.js-F7DF1E?style=for-the-badge&logo=discord&logoColor=black" />
-  <img src="https://skillicons.dev/icons?i=bots" />
   <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=bots" />
+  <img src="https://img.shields.io/badge/Discord.js-F7DF1E?style=for-the-badge&logo=discord&logoColor=black" />
   <img src="https://skillicons.dev/icons?i=postgresql" />
   <img src="https://skillicons.dev/icons?i=redis" />
   <img src="https://skillicons.dev/icons?i=kafka" />
