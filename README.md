@@ -93,6 +93,7 @@
   <img src="https://skillicons.dev/icons?i=py" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=php" />
   <br>
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=regex" />
@@ -103,6 +104,16 @@
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=discordjs" />
   <br>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Discord.js-F7DF1E?style=for-the-badge&logo=discord&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=bots" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=kafka" />
+  <br>
   <img src="https://skillicons.dev/icons?i=lua" />
   <img src="https://skillicons.dev/icons?i=robloxstudio" />
 </p>
@@ -111,15 +122,15 @@
 
 ---
 
-<div align="right">
+<p align="right">
   Best regards,
   <br>
   <b>NiXIII</b>
   <br>
   <img src="https://files.catbox.moe/m7vc0e.gif" width="70" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/fvkid/fvkid/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
   <font><i><b>Light theme/summat, some <b>might NOT be visible on ya.</b></i></font>
-</div>
+</p>
