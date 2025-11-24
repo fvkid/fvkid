@@ -43,7 +43,7 @@
         <li>Playing Games</li>
         <li>Learning</li>
         <li>Find something new</li>
-        <li>Make related stuff</li>
+        <li>Create related stuff</li>
         <li>The Cats 🐈</li>
       </ul>
     </td>
