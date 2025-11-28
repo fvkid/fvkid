@@ -132,5 +132,5 @@
 
 <p align="center">
   <img src="https://github.com/fvkid/fvkid/blob/401fabac7b4ed96ed7e4de0c335186df7329f63c/no-entry.png" width="13" />
-  <font><i><b>Light theme/summat, some <b>might NOT be visible on ya.</b></i></font>
+  <font><i><b>Light theme/summat, some might NOT be visible on ya.</b></i></font>
 </p>
