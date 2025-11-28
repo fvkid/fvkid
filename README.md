@@ -57,11 +57,18 @@
       <img src="https://github.com/fvkid/fvkid/blob/8a38a5122b9df1943a417a93cc246ba5c3424d22/rg-3.png" width="93" />
     </td>
     <td align="center">
-      <a href="https://github.com/fvkid"><img src="https://skillicons.dev/icons?i=github" /></a>
-      <a href="https://gitlab.com/fvkid"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+      <a href="https://github.com/fvkid">
+        <img src="https://skillicons.dev/icons?i=github" />
+      </a>
+      <a href="https://gitlab.com/fvkid"><img src="https://skillicons.dev/icons?i=gitlab" />
+      </a>
       <br>
-      <a href="https://discord.com/users/634719440184803339"><img src="https://skillicons.dev/icons?i=discord" /></a>
-      <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48" /></a>
+      <a href="https://discord.com/users/634719440184803339">
+        <img src="https://skillicons.dev/icons?i=discord" />
+      </a>
+      <a href="https://open.spotify.com/user/31gupde4ngfbbksvy5q6pb6b2474">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48" />
+      </a>
     </td>
   </tr>
 </table>
