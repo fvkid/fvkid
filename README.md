@@ -77,7 +77,8 @@
   <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" /><br>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" />
+  <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg" />
